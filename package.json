@@ -1,0 +1,13 @@
+{
+  "name": "nextplaypro-website",
+  "version": "1.0.0",
+  "description": "Website for NextPlayPro application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nextplaypro", "website"],
+  "author": "",
+  "license": "MIT"
+}
