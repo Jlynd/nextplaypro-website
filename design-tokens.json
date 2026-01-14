@@ -1,0 +1,29 @@
+{
+  "colors": {
+    "primary": {
+      "dark": "#1a1a2e",
+      "cyan": "#00d9ff",
+      "purple": "#667eea",
+      "purpleDark": "#764ba2"
+    },
+    "background": {
+      "light": "#f8f9fa",
+      "white": "#ffffff"
+    },
+    "text": {
+      "primary": "#333333",
+      "white": "#ffffff"
+    },
+    "gradients": {
+      "hero": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+    }
+  },
+  "shadows": {
+    "card": "0 5px 15px rgba(0, 0, 0, 0.1)",
+    "header": "0 2px 5px rgba(0, 0, 0, 0.1)",
+    "ctaHover": "0 10px 20px rgba(0, 217, 255, 0.3)"
+  },
+  "typography": {
+    "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
+  }
+}
